@@ -120,7 +120,7 @@ Authentication & Authorization API using JWT.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gaber11&show_icons=true&theme=tokyonight" />
+  <img src="file:///A:/my%20cer/backendonly/ChatGPT%20Image%2018%20%D9%85%D8%A7%D9%8A%D9%88%202026%D8%8C%2003_34_53%20%D9%85.png" />
 </p>
 
 <p align="center">
