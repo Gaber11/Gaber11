@@ -124,7 +124,7 @@ Authentication & Authorization API using JWT.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaber11&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/Gaber11/Gaber11/main/banner.png" width="100%" />
 </p>
 
 ---
