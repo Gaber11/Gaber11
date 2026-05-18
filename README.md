@@ -120,11 +120,11 @@ Authentication & Authorization API using JWT.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="file:///A:/my%20cer/backendonly/ChatGPT%20Image%2018%20%D9%85%D8%A7%D9%8A%D9%88%202026%D8%8C%2003_34_53%20%D9%85.png" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gaber11&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="file:///A:/my%20cer/backendonly/ChatGPT%20Image%2018%20%D9%85%D8%A7%D9%8A%D9%88%202026%D8%8C%2003_34_53%20%D9%85.png" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaber11&theme=tokyonight" />
 </p>
 
 ---
@@ -164,4 +164,4 @@ Backend .NET Track – Graduation Project Grade: **97/100**
 
 <p align="center">
 ⭐ From <a href="https://github.com/Gaber11">Gaber11</a>
-</p>
+</p> احطه ازاى بقا فى جيتهاب بتاعي 
