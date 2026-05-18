@@ -124,7 +124,7 @@ Authentication & Authorization API using JWT.
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Gaber11/Gaber11/main/banner.png" width="100%" />
+  <img src="A:\my cer\backendonly\ChatGPT Image 18 مايو 2026، 03_34_53 م.png" width="100%" />
 </p>
 
 ---
