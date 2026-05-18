@@ -124,7 +124,7 @@ Authentication & Authorization API using JWT.
 </p>
 
 <p align="center">
-  <img src="A:\my cer\backendonly\ChatGPT Image 18 مايو 2026، 03_34_53 م.png" width="100%" />
+  <img src="file:///A:/my%20cer/backendonly/ChatGPT%20Image%2018%20%D9%85%D8%A7%D9%8A%D9%88%202026%D8%8C%2003_34_53%20%D9%85.png" width="100%" />
 </p>
 
 ---
